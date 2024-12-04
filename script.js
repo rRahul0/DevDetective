@@ -173,7 +173,7 @@ function init() {
   }
 
 
-  //by default, pranaygupta ki info show krre h UI pr
+  //by default, rahulkarmakar28 ki info show krre h UI pr
   getUserData(url + "rahulkarmakar28");
 }
 
